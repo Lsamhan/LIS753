@@ -1,0 +1,87 @@
+h1#site-title {
+  font-size: 72px:
+  letter-spacing: -3px;
+  margin-top: 0;
+  margin-bottom: .125em;
+  text-align: center;
+}
+h1#article-title {
+  font-size: 48px:
+  letter-spacing: -3px;
+  margin-top: 0;
+  margin-bottom: .125em;
+  text-align: center;
+}
+.topnav {
+  background-color: #2a3c4f;
+  overflow: hidden;
+}
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav a:hover {
+  background-color: #98AFC7;
+  color: #2a3c4f;
+}
+.topnav a.active {
+  background-color: #BB855C;
+  color: white;
+}
+
+li{
+  display: inline;
+}
+
+figure img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 12px;
+}
+figure.main-image {
+  background: #BB855C;
+  border-color: black;
+  color: #ffffff;
+  margin-bottom: 32px;
+}
+figcaption {
+  background-color: black;
+  color: white;
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
+body {
+  font-family: "arial" sans-serif;
+  font-weight: 400;
+  margin: 0;
+}
+.container {
+  width: 96%;
+  max-width: 1020px;
+  margin: 0 auto;
+}
+.smallcontainer{
+  display: inline;
+  background-color: #C99801;
+  text-align: center;
+}
+
+h2#navlist {
+  font-size: 48px:
+  letter-spacing: -3px;
+  margin-top: 0;
+  margin-bottom: .125em;
+  text-align: center;
+}
+
+figure.second-image{
+  float: left;
+}
+figure.third-image{
+  float: left;
+}
